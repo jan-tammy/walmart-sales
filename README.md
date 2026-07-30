@@ -34,7 +34,7 @@ Restricted to the post-November-2011 tracking period: MarkDown4 (+116.1%), MarkD
 Interaction regression on MarkDown4 shows no significant interaction with holiday status (p=0.809) — MarkDown4 delivers a consistent lift regardless of holiday timing, supporting its use as a holiday-independent demand-smoothing tool.
 
 ## Business Question 4: Do store type and size affect sales, and does markdown effectiveness vary by store type?
-- Store type: ANOVA/Kruskal-Wallis confirm significant differences (p<0.001); Tukey HSD shows Type A > Type B (~$553K) > Type C (~$904K gap from A).
+- Store type: ANOVA/Kruskal-Wallis confirm significant differences (p<0.001); Tukey HSD shows Type A > Type B (\~\$553K) > Type C (\~\$904K gap from A).
 - Volatility: Type B is most volatile relative to size (CV=0.496); Type C is most stable (CV=0.245) despite lowest sales.
 - Store size correlation: strong positive relationship with sales (Pearson r=0.810, Spearman rho=0.837).
 - Markdown x store type interaction: significant for MarkDown2, MarkDown3, MarkDown4 (all p<0.0001 in Type A/B; p<0.05 in Type C for MD3/MD4); not significant for MarkDown1 or MarkDown5.
